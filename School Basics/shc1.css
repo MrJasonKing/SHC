@@ -1,0 +1,12 @@
+body {background-image: url("https://www.shc.ac.th/img/BG_index.jpg");margin:115px;}
+.flex-rectangle {background-color: #b10606; width: 800px; height: 185px; margin-left: auto;
+                 margin-right: auto; color: whitesmoke; font-size: 18px;}
+.vision1 {background-color: #faaec1;margin-left: auto;margin-right: auto; color: rgb(68, 67, 67); 
+          font-size: 14px; text-align: left; }
+.vision2, .vision4, .vision6 {background-color: rgb(182, 182, 250);  color: rgb(68, 67, 67);
+          font-size: 14px; text-align: left;}
+.vision3 {background-color: #faaec1;height: 280px; color: rgb(68, 67, 67); font-size: 14px; text-align: left;}
+.vision5 {background-color: #faaec1; color: rgb(68, 67, 67); font-size: 14px; text-align: left;}
+p {text-align: center;margin-top: auto;}
+b { font-size: 16px;}
+a {margin-left: auto;}
