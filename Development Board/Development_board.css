@@ -1,7 +1,0 @@
-body {background-image: url("shcback.png");text-align: center;}
-h1 {color: #21184f; font-size: 40px;}
-figcaption {background-color: rgba(255, 248, 220, 0.836) ;color: rgb(17, 12, 41);  font-weight: 1000px; font-style: italic;}
-figure {display: inline-block; width: 25%; float: center; margin: 0; text-align: center;padding: 0;}
-.flex-rectangle {background-color: #b10606; width: 800px; height: 195px; 
-    margin-left:auto;margin-right:auto; color: whitesmoke;
-    font-size: 18px;}
