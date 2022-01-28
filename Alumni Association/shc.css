@@ -1,0 +1,9 @@
+.flex-rectangle {background-color: #b10606; width: 800px; height: 185px;
+                margin-left:auto;margin-right:auto; color: whitesmoke;
+                font-size: 18px;}
+p {text-align: center;margin-top: auto;}
+tr, td {margin-left: auto;margin-right: auto;}
+h3 {margin-left: auto;margin-right: auto;text-align: center; color:green;}
+.headgreen {margin-left: auto;margin-right: auto;}
+h1 {text-align: center;}
+figure {display: inline-block; width:25%; float: center; margin: 0; text-align: center; padding:0;}
