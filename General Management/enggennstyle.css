@@ -1,4 +1,4 @@
-body {background-image: url("https://www.shc.ac.th/img/BG_index.jpg");}
+body {background-image: url("shcback.png");}
 body {text-align: center;
 font-family: Arial, Helvetica, sans-serif;}
 .img1 {text-align: center;
@@ -13,3 +13,12 @@ text-align: center;
 margin:0px auto;
 }
 p {text-align: center;}
+p {align:justify;
+        background-color:firebrick;
+border-radius:4px;
+font-size:20px;
+padding:15px;
+margin:5px;
+width:1850px;
+height: 154px;
+text-align: center;}
