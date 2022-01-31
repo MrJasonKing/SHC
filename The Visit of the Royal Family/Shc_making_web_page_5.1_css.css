@@ -1,0 +1,11 @@
+body {background-image: url("shcback.png");text-align: center;}
+h1 {color:#21184f; font-size: 40px;}
+h2 {color:#21184f; font-size: 30px;}
+p {color:rgb(15, 103, 33)}
+figcaption {color: rgb(17, 12, 41); font-size: 20px; font-weight: 1000;}
+button {background-color: rgb(110, 11, 156);}
+b {color:pink; text-shadow: deeppink 1px 1px;}
+img {text-align: center;}
+.flex-rectangle {background-color: #b10606; width: 800px; height: 195px; 
+                 margin-left:auto;margin-right:auto; color: whitesmoke;
+                 font-size: 18px;}
