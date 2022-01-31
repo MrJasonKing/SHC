@@ -1,0 +1,12 @@
+body {background-image: url("https://www.shc.ac.th/img/BG_index.jpg");}
+body {text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+figure {display: inline-block; width:25%; float: center; margin: 0; text-align: center; padding:0;}
+img {text-align: center;}
+b {color:white;
+    font-family: monospace;
+    text-align: center;
+    margin:0px auto;
+    }
+    p {text-align: center;}
