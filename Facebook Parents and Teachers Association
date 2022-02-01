@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+        <link href="stylesheet.css" rel="stylesheet">
+        <title>SHC</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="keywords" content="Page">
+        <meta name="author" content="Raphael">
+        <div class="navbar">
+            <a href="https://www.shc.ac.th/">Main Page</a>
+            <a href="#about">About School</a>
+            <a href="final.html">School Administration</a>
+            <div class="dropdown">
+              <button class="dropbtn">Related Agencies
+                <i class="fa fa-caret-down"></i>
+              </button>
+              <div class="dropdown-content">
+                <a href="https://www.shc.ac.th/PTA.html">Parents and Teacher Association</a>
+                <a href="https://www.facebook.com/Shcs-PTA-136386203065173/">Facebook Parents and Teachers Association</a>
+                <a href="https://www.shc.ac.th/alumni.html">Alumini Association</a>
+                <a href="https://www.facebook.com/SHC-Alumni-129843360425859">Facebook Alumini Association</a>
+              </div>
+            </div>
+          </div>
+    </head>
+    <body>
+        
