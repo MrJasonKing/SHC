@@ -1,0 +1,23 @@
+body {background-image: url("shcback.png");}
+body {text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+figure {display: inline-block; width:100%; float: center; margin: 0; text-align: center; padding:0;}
+.teach {border-radius: 50%;}
+width: 150px; height: 125px;}
+.wch {width: 100%;}
+.jj {width:"30%"}
+b {color:white;
+    font-family: monospace;
+    text-align: center;
+    margin:0px auto;
+    }
+    p {text-align: center;}
+p {align:justify;
+        background-color:firebrick;
+border-radius:4px;
+font-size:20px;
+padding:15px;
+margin:5px;
+width:1850px;
+height: 154px;
+text-align: center;}
