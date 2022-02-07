@@ -1,0 +1,33 @@
+body {background-image: url("https://www.shc.ac.th/img/BG_index.jpg");}
+body {text-align: center;}
+h1 {text-align: center;
+    font-size: 35px; color: rgb(150, 41, 41);}
+
+u {font-size: 28px; color: rgb(160, 27, 160); }
+h3 {font-size: 21px; color: rgb(163, 97, 163);font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+img {border-radius: 1200px; width: 450px; height: 370px;border: 5px double rgb(206, 117, 117);}
+
+a {font-size: 23px;
+   color: purple;
+   font-family: serif;
+}
+    
+b {color: white;
+  font-family: monospace;
+  margin: 0px auto;
+}
+  p {text-align: center;}
+p {align-items: justify;
+    background-color: firebrick;
+border-radius: 4px;
+font-size: 23px;
+padding: 15px;
+margin: 5px;
+width: 1350px;
+height: 200px;
+text-align: center;}
+
+
+
+
