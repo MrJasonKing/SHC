@@ -5,6 +5,7 @@ figure {display: inline-block; width: 25%; float: center; margin: 0; text-align:
 .flex-rectangle {background-color: #b10606; width: 800px; height: 195px; 
     margin-left:auto;margin-right:auto; color: whitesmoke;
     font-size: 18px;}
+.whitesquare {background-color: rgb(230, 230, 230); width: 1200px; height: 2800px; margin-left: auto; margin-right: auto;}
 body{text-align: center;}
     .navbar {
         overflow: hidden;
