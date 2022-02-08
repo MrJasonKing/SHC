@@ -14,7 +14,7 @@
   left: 0;
   width:100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.5);
   color:#ffffff;
   display: flex;
   flex-direction: column;
@@ -37,9 +37,9 @@
 .button___text{
   font-size:2em;
 }
-.button:hover{
-  background-color:rgb(73, 73, 73) ;
-}
-.button___text:hover{
+.button___text .button:hover{
   color: #ffffff;
+}
+.button:hover{
+  background-color: rgb(73, 73, 73);
 }
