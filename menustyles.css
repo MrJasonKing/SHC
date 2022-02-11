@@ -84,7 +84,7 @@
     font-family: 'Cherry Swash', cursive;
   }
 
-#span {
+.Welcome {
     vertical-align: text-top; 
     color: #333; 
     font-size: x-large;
