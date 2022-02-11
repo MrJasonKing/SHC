@@ -133,3 +133,31 @@
   .button:hover{
     background-color: rgb(73, 73, 73);
   }
+.Welcome {
+    vertical-align: text-top; 
+    color: #333; 
+    font-size: x-large;
+}
+
+.Table {
+    color: #00C; 
+    font-size: 24px;
+  }
+
+.Cycle {
+  font-size: 20px;
+}
+
+.Drive {
+  font-size: 8px
+}
+
+.menuLink {
+  font-size: large
+}
+
+.SchoolBright {
+  color: #00C; 
+  line-height: 32px; 
+  font-size: 20px;
+}
