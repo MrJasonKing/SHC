@@ -80,17 +80,6 @@ img {text-align: center;}
   .dropdown:hover .dropdown-content {
     display: block;
   }
-  
-  body {
-    font-size: 12px;
-    font-family: sans-serif;
-  }
-  h1 {
-    text-align: center;
-    margin: 40px 0 40px;
-    text-shadow: 2px 2px 4px #000000;
-    font-family: 'Cherry Swash', cursive;
-  }
 
 #span {
     vertical-align: text-top; 
@@ -141,31 +130,14 @@ img {text-align: center;}
   .button:hover{
     background-color: rgb(73, 73, 73);
   }
-.Welcome {
-    vertical-align: text-top; 
-    color: #333; 
-    font-size: x-large;
-}
-
-.Table {
-    color: #00C; 
-    font-size: 24px;
-  }
-
-.Cycle {
-  font-size: 20px;
-}
-
-.Drive {
-  font-size: 8px
-}
-
-.menuLink {
-  font-size: large
-}
-
-.SchoolBright {
-  color: #00C; 
-  line-height: 32px; 
-  font-size: 20px;
-}
+body {font-size: 12px;
+    font-family: sans-serif;
+    background-repeat: repeat;
+    background-size: 1324px 768px;}
+h1 {text-align: center;
+    margin: 40px 0 40px;
+    text-align: center;
+    font-size: 40px;
+    color: #21184f;
+    text-shadow: 2px 2px 4px #000000;
+    font-family: 'Cherry Swash', cursive;}
