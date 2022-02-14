@@ -10,6 +10,36 @@ u {font-weight: 900; line-height: 40px; color: rgb(153, 48, 29);}
 img {border-radius: 600px; border: 5px solid rgb(153, 48, 29);}
 b {text-align: center;}
 .noborder {border-radius:0px; border:0px none;}
+.symbol {text-align: center;}
+
+/* Welfare introduction */
+.right1 {width: 300px; height: 300px; position: absolute;}
+.Welfare {position: relative;}
+.img1 {left: 800px ;top: 0px;}
+
+/* Beauty according to rules */
+.beauty1 {width: 300px; height: 300px; position: absolute;}
+.Beauty{position: relative;}
+.img2 {width: 250px;  height: 220px; z-index: 1;top: 0px; left: 50px;}
+.img3 {width: 300px;  height: 285px;z-index: 2; top: 110px; left: 210px;}
+.img4 {width: 400px;  height: 350px; z-index: 2; top: 80px; left: 700px; }
+
+/* From heart for you */
+.heart1 {width: 300px; height: 300px; position: absolute;}
+.Heart {position: relative;}
+.img5 {width: 400px;  height: 350px; z-index: 1;top: 0px; left: 50px;}
+.img6 {width: 230px;  height: 195px;z-index: 2; top: 230px; left: 350px;}
+.img7 {width: 350px;  height: 350px; z-index: 3; top: 10px; left: 700px; }
+
+/* Beauty culture project */
+.culture1 {width: 300px; height: 300px; position: absolute;}
+.Culture {position: relative;}
+.img8 {width: 400px;  height: 350px; z-index: 1; top: 0px; left:50px;}
+.img9 {width: 200px;  height: 195px; z-index: 2; top: 230px; left: 350px;}
+
+
+
+
 /* Navbar container */
 .navbar {
     overflow: hidden;
