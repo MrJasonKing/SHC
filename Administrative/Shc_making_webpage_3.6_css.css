@@ -2,6 +2,8 @@ body {background-image: url("shcback.png");text-align: center; font-family: sans
 h1, a {text-align: center;color: darkblue;} 
 p {color: rgb(13, 8, 46);}
 u {font-weight: 900; line-height: 40px; color: rgb(153, 48, 29);}
+.flex-rectangle1 {background-color: #66d84a; width: 1200px; height: 5800px; margin-left:auto;margin-right:auto;
+    font-size: 18px; text-align: center;}
 .flex-rectangle {background-color: #b10606; width: 800px; height: 195px; 
     margin-left:auto;margin-right:auto; color: whitesmoke;
     font-size: 18px; text-align: center;}
