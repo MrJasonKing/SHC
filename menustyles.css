@@ -93,11 +93,14 @@
     position: relative;
     width: 1080px;
     height: 400px;
-    text-align:center;
+    text-align:center; 
+    margin:0 auto;
   }
   .image___{
     display: block;
     width: 100%;
+    text-align:center; 
+    margin:0 auto;
   }
   .image___overlay{
     position: absolute;
@@ -115,22 +118,32 @@
   .image___title{
     font-size: 3em;
     font-weight: bold;
+    text-align:center; 
+    margin:0 auto;
   }
   .image___description{
     font-size: 1.25em;
     margin-top: 0.25em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center; 
+    margin:0 auto;
   }
   .button{
     width: 150px;
     height: 50px;
     text-align:center;
+    text-align:center; 
+    margin:0 auto;
   }
   .button___text{
     font-size:2em;
+    text-align:center; 
+    margin:0 auto;
   }
   .button___text .button:hover{
     color: #ffffff;
+    text-align:center; 
+    margin:0 auto;
   }
   .button:hover{
     background-color: rgb(73, 73, 73);
