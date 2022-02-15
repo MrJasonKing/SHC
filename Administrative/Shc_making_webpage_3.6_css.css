@@ -11,6 +11,7 @@ img {border-radius: 600px; border: 5px solid rgb(153, 48, 29);}
 b {text-align: center;}
 .noborder {border-radius:0px; border:0px none;}
 .symbol {text-align: center;}
+#vicespic {border-radius: 0px;}
 
 /* Welfare introduction */
 .right1 {width: 300px; height: 300px; position: absolute;}
@@ -36,6 +37,46 @@ b {text-align: center;}
 .Culture {position: relative;}
 .img8 {width: 400px;  height: 350px; z-index: 1; top: 0px; left:50px;}
 .img9 {width: 200px;  height: 195px; z-index: 2; top: 230px; left: 350px;}
+
+/* Student inspector */
+.inspector1 {width: 300px; height: 300px; position: absolute;}
+.Inspector {position: relative;}
+.para {width: 800px; height: 200px; z-index: 1; top: 2410px; left: 180px; text-align: left; color: rgb(80, 19, 19); font-size: 20px;}
+.img10 {width: 400px;  height: 380px; z-index: 2; top: 50px; left: 770px;}
+.img11 {width: 200px;  height: 195px; z-index: 3; top: 180px; left: 120px;}
+.img12 {width: 250px;  height: 250px; z-index: 4; top: 200px; left: 300px;}
+.img13 {width: 200px;  height: 195px; z-index: 5; top: 205px; left: 520px;}
+
+/* Well Behave students */
+.behave1 {width: 300px; height: 300px; position: absolute;}
+.Behave {position: relative;}
+.img14 {width: 400px;  height: 400px; z-index: 1; top: 70px; left: 50px;}
+.img15 {width: 250px;  height: 250px; z-index: 3; top: 0px; left: 370px;}
+.img16 {width: 300px;  height: 300px; z-index: 2; top: 200px; left: 480px;}
+.img17 {width: 420px;  height: 420px; z-index: 4; top: 0px; left: 700px;}
+
+/* Honest students */
+.honest1 {width: 300px; height: 300px; position: absolute;}
+.Honest {position: relative;}
+.img18 {width: 300px;  height: 300px; z-index: 1; top: 0px; left: 50px;}
+.img19 {width: 360px;  height: 360px; z-index: 3; top: 150px; left: 200px;}
+.img20 {width: 300px;  height: 300px; z-index: 4; top: 0px; left: 500px;}
+.img21 {width: 420px;  height: 420px; z-index: 2; top: 80px; left: 700px;}
+    
+/* Security */
+.security1 {width: 300px; height: 300px; position: absolute;}
+.Security {position: relative;}
+.img22 {width: 270px;  height: 270px; z-index: 1; top: 0px; left: 50px;}
+.img23 {width: 330px;  height: 330px; z-index: 3; top: 120px; left: 400px;}
+.img24 {width: 400px;  height: 400px; z-index: 2; top: 20px; left: 700px;}
+
+/* Honest students */
+.vices1 {width: 300px; height: 300px; position: absolute;}
+.Vices {position: relative;}
+.img25 {width: 300px;  height: 300px; z-index: 1; top: 300px; left: 50px;}
+.img26 {width: 300px;  height: 350px; z-index: 2; top: 0px; left: 870px;}
+.img27 {width: 300px;  height: 350px; z-index: 3; top: 180px; left: 320px;}
+.img28 {width: 300px;  height: 350px; z-index: 4; top: 180px; left: 620px;}
 
 
 
