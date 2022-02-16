@@ -93,14 +93,10 @@
     position: relative;
     width: 1080px;
     height: 400px;
-    text-align:center; 
-    margin:0 auto;
   }
   .image___{
     display: block;
     width: 100%;
-    text-align:center; 
-    margin:0 auto;
   }
   .image___overlay{
     position: absolute;
@@ -118,61 +114,41 @@
   .image___title{
     font-size: 3em;
     font-weight: bold;
-    text-align:center; 
-    margin:0 auto;
   }
   .image___description{
     font-size: 1.25em;
     margin-top: 0.25em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align:center; 
-    margin:0 auto;
   }
   .button{
     width: 150px;
     height: 50px;
-    text-align:center;
-    text-align:center; 
-    margin:0 auto;
   }
   .button___text{
     font-size:2em;
-    text-align:center; 
-    margin:0 auto;
   }
   .button___text .button:hover{
     color: #ffffff;
-    text-align:center; 
-    margin:0 auto;
   }
   .button:hover{
     background-color: rgb(73, 73, 73);
   }
-.Welcome {
-    vertical-align: text-top; 
-    color: #333; 
-    font-size: x-large;
+  .image{
+    width: 1080px;
+    height: 400px;
+    position: relative;
 }
-
-.Table {
-    color: #00C; 
-    font-size: 24px;
-  }
-
-.Cycle {
-  font-size: 20px;
+.image___img{
+    display: block;
+    width: 100%;
 }
-
-.Drive {
-  font-size: 8px
+.reg{width: 1080px;
+height: 75px;
 }
-
-.menuLink {
-  font-size: large
-}
-
-.SchoolBright {
-  color: #00C; 
-  line-height: 32px; 
-  font-size: 20px;
+.text{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: brown;
+    margin-bottom: 20px;
+    font-size: 200%;
 }
