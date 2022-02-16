@@ -3,13 +3,51 @@ body {background-image: url("https://www.shc.ac.th/img/BG_index.jpg");margin:115
                  margin-right: auto; color: whitesmoke; font-size: 18px;}
 .vision1 {background-color: #faaec1;margin-left: auto;margin-right: auto; color: rgb(68, 67, 67); 
           font-size: 14px; text-align: left; }
-.vision2, .vision4, .vision6 {background-color: rgb(182, 182, 250);  color: rgb(68, 67, 67);
+.vision2, .vision4, .vision15 {background-color: rgb(182, 182, 250);  color: rgb(68, 67, 67);
           font-size: 14px; text-align: left;}
-.vision3 {background-color: #faaec1;height: 280px; color: rgb(68, 67, 67); font-size: 14px; text-align: left;}
-.vision5 {background-color: #faaec1; color: rgb(68, 67, 67); font-size: 14px; text-align: left;}
+.vision3 {background-color: #faaec1;margin-left: auto;margin-right: auto; color: rgb(68, 67, 67); font-size: 14px; text-align: left;}
+.vision14 {background-color: #faaec1; color: rgb(68, 67, 67); font-size: 14px; text-align: left;}
 p {text-align: center;margin-top: auto;}
 b { font-size: 16px;}
 a {margin-left: auto;}
+.vision5 {text-align: right;
+    margin-left: 480px;
+    margin-right: 1px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    border-radius: 50%;
+            border: 5px solid #a3a3a3;
+    }
+.vision13{text-align: right;
+    margin-left: 550px;
+    margin-right: 1px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    border-radius: 50%;
+            border: 5px solid #a3a3a3;}
+
+.vision6{text-align: right;
+    margin-left: 250px;
+    margin-right: 1px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    border-radius: 50%;
+            border: 5px solid #a3a3a3;}
+
+.vision8{text-align: right;
+    margin-left: 10px;
+    margin-right: 1px;
+    margin-top: 1px;
+    width: 200px;
+    height: 110px;}
+
+.vision9{text-align: right;
+    margin-left: 10px;
+    margin-right: 1px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    border-radius: 50%;
+            border: 5px solid #a3a3a3;}
 
 .navbar {
     overflow: hidden;
@@ -65,7 +103,8 @@ a {margin-left: auto;}
 body {font-size: 12px;
 font-family: sans-serif;
 background-repeat: repeat;
-background-size: 1324px 768px;}
+background-size: 1324px 768px;
+text-align: center;}
 h1 {text-align: center;
 margin: 40px 0 40px;
 text-align: center;
@@ -73,3 +112,8 @@ font-size: 30px;
 color: #ecf0f1;
 text-shadow: 2px 2px 4px #000000;
 font-family: 'Cherry Swash', cursive;}
+#span {
+    vertical-align: text-top; 
+    color: #333; 
+    font-size: x-large;
+}
