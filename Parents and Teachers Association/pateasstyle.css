@@ -9,6 +9,7 @@ img {text-align: center;}
     font-size: 18px; text-align: center;}
 .box {background: linear-gradient(80deg, #fdcd3b, white, #5ac8fa  );}
 h1 {color: royalblue; font-family: cursive;}
+h2 {color: royalblue;}
 /* Navbar container */
 .navbar {
     overflow: hidden;
