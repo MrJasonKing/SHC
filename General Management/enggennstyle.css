@@ -11,6 +11,7 @@ border-radius: 50%;
         border: 5px solid #a3a3a3;
 }
 .green {background: linear-gradient(110deg, #fed8b1, darkseagreen);}
+.twen {background: linear-gradient(80deg, darkseagreen,#fed8b1  );}
 .flex-rectangle 
 {background-color: #b10606; width: 800px; height: 195px; 
     margin-left:auto;margin-right:auto; color: whitesmoke;
