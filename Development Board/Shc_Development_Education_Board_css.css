@@ -6,7 +6,7 @@ figure {display: inline-block; width: 25%; float: center; margin: 0; text-align:
     margin-left:auto;margin-right:auto; color: whitesmoke;
     font-size: 18px;}
 .whitesquare {background-color: rgb(230, 230, 230); width: 1200px; height: 2800px; margin-left: auto; margin-right: auto;}
-#shcimg {border-radius: 600px;}
+#shcimg {border-radius: 600px;text-align: left;}
 
 /* Navbar container */
 .navbar {
