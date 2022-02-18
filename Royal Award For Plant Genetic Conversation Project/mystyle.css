@@ -1,7 +1,16 @@
-body {
-  background-image: url("schm.jpg");
+body, html {
+  height: 100%;
 }
 
+.bg {
+  background-image: url("schm.jpg");
+
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .tab {
     overflow: hidden;
     border: 1px solid #ccc;
