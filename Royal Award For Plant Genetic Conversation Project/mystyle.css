@@ -10,7 +10,7 @@
     border: none;
     outline: none;
     cursor: pointer;
-    padding: 10px 12px;
+    padding: 14px 16px;
     transition: 0.3s;
   }
   .tab button:hover {
